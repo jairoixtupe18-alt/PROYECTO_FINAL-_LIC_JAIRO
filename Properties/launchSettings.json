@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PROYECTO_FINAL _LIC_JAIRO": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
